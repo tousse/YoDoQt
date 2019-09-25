@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/imgicon.png</file>
+        <file>img/yocto-project-176x176.png</file>
+    </qresource>
+</RCC>
